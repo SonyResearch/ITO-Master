@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ito_master",
-    version="0.1.0",
+    version="0.1.1",
     packages=find_packages(),
     install_requires = [
         "torch>=2.0",
@@ -20,6 +20,7 @@ setup(
         "julius",
         "pyloudnorm",
         "matplotlib",
+        "pymixconsole",
         "soxbindings",
         "aubio",
         "laion-clap",
