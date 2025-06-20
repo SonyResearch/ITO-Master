@@ -1,0 +1,20 @@
+torch>=2.0
+torchaudio==2.1.2
+soundfile
+librosa
+scipy
+numba
+auraloss
+dasp-pytorch
+torchlpc==0.5
+torchcomp
+pytorch-lightning
+julius
+pyloudnorm
+matplotlib
+pymixconsole @ git+https://github.com/csteinmetz1/pymixconsole.git
+soxbindings
+aubio
+laion-clap
+torchvision
+huggingface_hub
