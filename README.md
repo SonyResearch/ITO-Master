@@ -1,7 +1,7 @@
 # ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](https://arxiv.org)  
-[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/spaces/jhtonyKoo/ITO-Master)  
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](https://arxiv.org)
+[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/spaces/jhtonyKoo/ITO-Master)
 [![Audio Samples](https://img.shields.io/badge/🎧-Audio_Samples-blue.svg)](https://tinyurl.com/ITO-Master)
 
 This repository contains the official implementation of the paper:
