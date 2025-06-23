@@ -1,6 +1,6 @@
 # ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.16889-b31b1b.svg)](https://arxiv.org/abs/2506.16889)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/spaces/jhtonyKoo/ITO-Master)
 [![Audio Samples](https://img.shields.io/badge/🎧-Audio_Samples-blue.svg)](https://tinyurl.com/ITO-Master)
 
@@ -82,8 +82,8 @@ python inference.py \
 Please cite our work if you find it useful:
 
 ```bibtex
-@INPROCEEDINGS{koo2025, 
-  author={Koo, Junghyun and Martínez-Ramírez, Marco A. and Liao, Wei-Hsiang and Fabbro, Giorgio and Mancusi, Michele and Mitsufuji, Yuki}, 
+@INPROCEEDINGS{koo2025ito, 
+  author={Koo, Junghyun and Mart{\'\i}nez-Ram{\'\i}rez, Marco A. and Liao, Wei-Hsiang and Fabbro, Giorgio and Mancusi, Michele and Mitsufuji, Yuki}, 
   booktitle={The 26th International Society for Music Information Retrieval Conference (ISMIR)},  
   title={ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors}, 
   year={2025},
