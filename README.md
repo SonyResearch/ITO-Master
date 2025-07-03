@@ -83,9 +83,9 @@ Please cite our work if you find it useful:
 
 ```bibtex
 @INPROCEEDINGS{koo2025ito, 
+  title={ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors}, 
   author={Koo, Junghyun and Mart{\'\i}nez-Ram{\'\i}rez, Marco A. and Liao, Wei-Hsiang and Fabbro, Giorgio and Mancusi, Michele and Mitsufuji, Yuki}, 
   booktitle={The 26th International Society for Music Information Retrieval Conference (ISMIR)},  
-  title={ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors}, 
   year={2025},
 }
 ```
